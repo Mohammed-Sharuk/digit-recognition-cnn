@@ -1,0 +1,7 @@
+Handwritten Digit Recognition Using CNN 
+
+CNN Model Architecture
+
+Accuracy score:   0.8773
+
+
