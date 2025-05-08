@@ -1,0 +1,9 @@
+Flask
+tensorflow-cpu
+numpy
+opencv-python-headless
+pandas
+gunicorn
+joblib
+Pillow
+scipy
